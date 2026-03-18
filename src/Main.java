@@ -9,5 +9,8 @@ public class Main {
         k1.wypiszInfo();
         k1.zwroc();
         k1.wypiszInfo();
+
+        k2.wypiszInfo();
+        K3.wypiszInfo();
     }
 }
