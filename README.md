@@ -1,1 +1,1 @@
-# mini-bibliotka
+# mini-biblioteka
