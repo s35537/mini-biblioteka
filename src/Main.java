@@ -11,6 +11,6 @@ public class Main {
         k1.wypiszInfo();
 
         k2.wypiszInfo();
-        K3.wypiszInfo();
+        k3.wypiszInfo();
     }
 }
